@@ -28,5 +28,5 @@
 	shallow = true
 [submodule "Kinc"]
 	path = Kinc
-	url = https://github.com/Kode/Kinc.git
+	url = https://github.com/doczi-dominik/Kinc
 	branch = master
